@@ -1,13 +1,13 @@
 <img align="right" alt="Coding" width="100%" src="https://previews.123rf.com/images/annakonchits/annakonchits2002/annakonchits200200011/139979130-watercolor-illustration-of-colorful-word-hello-with-flowers-arrows-leaves-and-hearts-isolated-on.jpg" />
 <h1 align="center"> 👋 I'm Bikram Sankhari</h1>
 <h3 align="center">A Full Stack Django Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*54_--49lwKngQUw0bNPijQ.gif" />
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b3/68/42/b36842d5d1fbc6ebed379f5692da6871.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikram-sankhari&label=Profile%20views&color=0e75b6&style=flat" alt="bikram-sankhari" /> </p>
 
-- 👯 I’m looking to collaborate on **A Real World Project**
+- 🤝 Available for **Hire** 
 
-- 🌱 I’m currently learning **Celery,Redis & DevOPs**
+- 🌱 Currently learning **Celery,Redis & DevOPs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bikram-Sankhari](https://github.com/Bikram-Sankhari)
 
@@ -29,5 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikram-sankhari&show_icons=true&locale=en&layout=compact" alt="bikram-sankhari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikram-sankhari&show_icons=true&locale=en" alt="bikram-sankhari" /></p>
+
 
 
