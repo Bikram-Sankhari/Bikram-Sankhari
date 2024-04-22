@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **Celery,Redis & DevOPs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bikram-Sankhari](https://github.com/Bikram-Sankhari)
+- 👨‍💻 Explore my Projects [here](https://www.youtube.com/channel/UCYcmE7Cl9droFHp4esAasVg)
 
 - 📫 Feel free to reach me at **bikramsankhari2024@gmail.com**
 
@@ -63,6 +63,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikram-sankhari&show_icons=true&locale=en&layout=compact" alt="bikram-sankhari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikram-sankhari&show_icons=true&locale=en" alt="bikram-sankhari" /></p>
+
 
 
 
