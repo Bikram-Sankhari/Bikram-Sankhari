@@ -1,9 +1,4 @@
 <img align="right" alt="Coding" width="100%" src="https://previews.123rf.com/images/annakonchits/annakonchits2002/annakonchits200200011/139979130-watercolor-illustration-of-colorful-word-hello-with-flowers-arrows-leaves-and-hearts-isolated-on.jpg" />
-
-
-<br><br>
-
-
 <h1 align="center"> 👋 I'm Bikram Sankhari</h1>
 <h3 align="center">A Full Stack Django Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*54_--49lwKngQUw0bNPijQ.gif" />
@@ -18,13 +13,14 @@
 
 - 📫 Feel free to reach me at **bikramsankhari2024@gmail.com**
 
-<h3 align="left">Connect with me:</h3>`
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.facebook.com/profile.php?id=61557697380531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bikramsankhari" height="30" width="40" /></a>
+<a href="https://twitter.com/bikram_sankhari" target="blank"><img align="center" src="https://github.com/Bikram-Sankhari/Bikram-Sankhari/blob/main/twitter.png?raw=true" alt="https://twitter.com/bikram_sankhari" height="25" width="25" /></a>
+<a href="https://www.youtube.com/channel/UCYcmE7Cl9droFHp4esAasVg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bikramsankhari" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22411868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22411868" height="30" width="40" /></a>
-<a href="https://fb.com/bikramsankhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bikramsankhari" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bikramsankhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bikramsankhari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bikramsankhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bikramsankhari" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/popww520t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/popww520t/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/popww520t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/popww520t/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
