@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="100%" src="https://previews.123rf.com/images/annakonchits/annakonchits2002/annakonchits200200011/139979130-watercolor-illustration-of-colorful-word-hello-with-flowers-arrows-leaves-and-hearts-isolated-on.jpg" />
 <h1 align="center"> 👋 I'm Bikram Sankhari</h1>
-<h3 align="center">A Full Stack Python Developer</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b3/68/42/b36842d5d1fbc6ebed379f5692da6871.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikram-sankhari&label=Profile%20views&color=0e75b6&style=flat" alt="bikram-sankhari" /> </p>
